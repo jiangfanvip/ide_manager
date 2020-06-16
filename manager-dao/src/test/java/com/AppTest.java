@@ -1,4 +1,4 @@
-package com.jiangfan;
+package com;
 
 import static org.junit.Assert.assertTrue;
 
